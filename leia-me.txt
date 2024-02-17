@@ -1,3 +1,8 @@
+Links
+https://www.youtube.com/watch?v=14it9M7yyiA
+
+tamanho do video 55:39 dia 17/02/2024 inicio as 10:08 fim 16:22
+
 priemiro verificar se o projeto vscode esta aberto no 0002 estudos pasta
 
 caso esteja utilizar no terminal para cria rum novo projeto comano 
