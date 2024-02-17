@@ -1,0 +1,45 @@
+priemiro verificar se o projeto vscode esta aberto no 0002 estudos pasta
+
+caso esteja utilizar no terminal para cria rum novo projeto comano 
+    npx create-expo-app -t expo-template-blank-typescript
+apos este comando sera solicitado o nome do proximo projeto 
+###########################
+
+caso queir aabrir um projeto existente 
+entrar na pasta 0002 estudos eno terminal dar o comando cd nomedoproje
+exemplo: cd cronometroExplo1
+
+dentro da pasta do aplicativo executar no terminal o comando expo start
+apos o cmando acima roda ro comando no terminal sudo npm start, para subir a aplicação
+
+
+
+############comand vscode mac ##############################
+
+
+Ctrl + P (ou Cmd + P no macOS): Abre a barra de pesquisa "Ir para arquivo" para navegar rapidamente para qualquer arquivo no projeto.
+Ctrl + Shift + N (ou Cmd + Shift + N no macOS): Abre uma nova janela do VS Code.
+Ctrl + ` (ou Cmd + ` no macOS): Abre ou fecha o terminal integrado.
+Ctrl + B (ou Cmd + B no macOS): Mostra ou esconde a barra lateral (explorador de arquivos).
+Ctrl + D: Seleciona a próxima instância da palavra atual ou a seleção atual. Repetir este atalho para selecionar ocorrências adicionais.
+Ctrl + Shift + L: Seleciona todas as instâncias da palavra atual.
+Ctrl + F (ou Cmd + F no macOS): Abre a barra de pesquisa no editor.
+Ctrl + H (ou Cmd + H no macOS): Abre a barra de pesquisa e substituição no editor.
+Ctrl + Shift + F (ou Cmd + Shift + F no macOS): Abre a barra de pesquisa em todo o projeto.
+Ctrl + / (ou Cmd + / no macOS): Comenta ou descomenta a linha ou seleção atual.
+Ctrl + Shift + K: Exclui a linha atual.
+Ctrl + Enter: Insere uma nova linha abaixo da linha atual.
+Ctrl + Shift + Enter: Insere uma nova linha acima da linha atual.
+Alt + ↑ / ↓: Move a linha atual para cima ou para baixo.
+Ctrl + F2 (ou Cmd + F2 no macOS): Seleciona todas as ocorrências da palavra atual.
+Ctrl + Shift + Alt + ← / → (ou Ctrl + Cmd + Shift + ← / → no macOS): Expande ou reduz a seleção para a palavra ou bloco de código anterior ou seguinte.
+Ctrl + K, Ctrl + C (ou Cmd + K, Cmd + C no macOS): Comenta o bloco de código selecionado.
+Ctrl + K, Ctrl + U (ou Cmd + K, Cmd + U no macOS): Descomenta o bloco de código selecionado.
+Ctrl + ] / [: Indenta ou recua o bloco de código selecionado.
+Ctrl + F12 (ou Cmd + F12 no macOS): Abre a definição do símbolo atual.
+Ctrl + Cmd + space : Abre a definição do símbolo.
+
+
+#######################exemplos de script trechos ##############################
+exermplo click button console
+{/* <Button title='Start Timer' onPress={() => console.log('start timer')} />  */}
