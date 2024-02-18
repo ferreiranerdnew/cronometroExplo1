@@ -5,17 +5,19 @@ tamanho do video 55:39 dia 17/02/2024 inicio as 10:08 fim 16:22
 
 priemiro verificar se o projeto vscode esta aberto no 0002 estudos pasta
 
-caso esteja utilizar no terminal para cria rum novo projeto comano 
+caso esteja utilizar no terminal para criar um novo projeto comando abaixo
     npx create-expo-app -t expo-template-blank-typescript
 apos este comando sera solicitado o nome do proximo projeto 
 ###########################
 
-caso queir aabrir um projeto existente 
+caso queira abrir um projeto existente 
 entrar na pasta 0002 estudos eno terminal dar o comando cd nomedoproje
 exemplo: cd cronometroExplo1
 
-dentro da pasta do aplicativo executar no terminal o comando expo start
-apos o cmando acima roda ro comando no terminal sudo npm start, para subir a aplicação
+dentro da pasta do aplicativo executar no terminal o comando
+    expo start
+apos o cmando acima rodaro comando no terminal 
+    sudo npm start, para subir a aplicação
 
 
 
